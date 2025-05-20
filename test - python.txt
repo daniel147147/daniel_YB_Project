@@ -1,0 +1,69 @@
+Question 1: What is the correct file extension for Python files?
+1. .java
+2. .py
+3. .python
+4. .pt
+Answer: 2
+
+Question 2: How do you start a comment in Python?
+1. //
+2. /*
+3. --
+4. #
+Answer: 4
+
+Question 3: What is the output of: print(2 ** 3)?
+1. 6
+2. 8
+3. 9
+4. 12
+Answer: 2
+
+Question 4: Which keyword is used to define a function in Python?
+1. define
+2. function
+3. def
+4. fun
+Answer: 3
+
+Question 5: What is the output of: len("hello")?
+1. 4
+2. 5
+3. 6
+4. 7
+Answer: 2
+
+Question 6: Which data type is used to store True or False values?
+1. int
+2. str
+3. bool
+4. list
+Answer: 3
+
+Question 7: What does the "input()" function do?
+1. Prints text to the screen
+2. Takes user input
+3. Exits the program
+4. Pauses the code
+Answer: 2
+
+Question 8: How do you create a list in Python?
+1. Using parentheses ()
+2. Using curly braces {}
+3. Using square brackets []
+4. Using angle brackets <>
+Answer: 3
+
+Question 9: What will print(type(5)) display?
+1. <class 'str'>
+2. <class 'float'>
+3. <class 'list'>
+4. <class 'int'>
+Answer: 4
+
+Question 10: Which of the following is a correct if statement in Python?
+1. if x = 5:
+2. if x == 5
+3. if (x == 5):
+4. if x == 5 then:
+Answer: 3

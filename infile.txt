@@ -1,0 +1,9 @@
+king
+queen
+queen
+clown
+king
+king
+prince
+prince
+princess

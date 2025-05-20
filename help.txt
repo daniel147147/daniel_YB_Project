@@ -1,0 +1,71 @@
+
+Welcome to DanielClassMng
+
+
+
+Connecting to the Server:
+
+Connect to Server: Click the "Connect to Server" button to establish a connection.
+
+
+
+Executing Commands:
+
+Send Message (Msg): Select a client and click "Msg" to send a custom message.
+
+Execute Button: After pressing the "Msg" button, enter a command in the text box and click "Execute" to send it to the server after choosing the client.
+
+Available Commands
+
+Help – Displays this help menu with a list of available commands and their descriptions.
+
+Block: <client_name> / all – Blocks a specific client or all clients' keyboards and mouse.
+
+UnBlock: <client_name> / all – Unblocks a specific client or all clients' keyboards and mouse.
+
+Screenshot: <client_name> – Requests a live screenshot from a specific client.
+
+SetGrade: <client_name> – Assigns a grade to a specific client.
+
+GetGrades – Requests the grades history (all grades given over time).
+
+SendFile: Select a file (.png or .txt), then select <client_name> / all – Sends a text file or PNG file to a specific client or all connected clients.
+
+Paint: <client_name> – If a last file was displayed, opens a Paint window to draw on it. After editing, select a specific client or all connected clients, and send the updated painted file to them.
+
+Msg: <client_name> / all – Sends a message to a specific client or all connected clients (write the message in the command line).
+
+Test: Choose a .txt file containing the word "test" in its name, then choose <client_name> – Sends a test to a specific client or all connected clients to complete.
+
+Remove Client: Click "Remove Client" and select a client to disconnect from the server.
+
+
+
+Additional Features Using the Black Canvas:
+
+Request Last File: Click the "Request Last File" button to retrieve and display the most recent file received from a client.
+
+GetGrades: Displays the grades table over all time.
+
+Test Status: Displays the test status of each client so the admin can see if a client is currently taking a test.
+
+
+
+ListBox ClientList:
+
+Client List Auto-Refresh: The list of connected clients updates automatically when clients connect or disconnect.
+
+
+
+Sections:
+
+History Section:
+At the bottom left of the system, there is a History section that displays a complete log of all server actions, sent commands, received messages, and system events.
+
+Messages from Clients Section:
+At the bottom right of the system, there is a Messages from Clients section that displays incoming messages sent by connected clients.
+
+
+
+Use these commands to manage and monitor connected clients efficiently.
+
